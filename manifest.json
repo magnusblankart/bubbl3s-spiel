@@ -1,0 +1,13 @@
+{
+  "name": "Bubbl3s Stand",
+  "short_name": "Bubbl3s",
+  "start_url": "./index.html",
+  "display": "fullscreen",
+  "orientation": "any",
+  "background_color": "#062f29",
+  "theme_color": "#062f29",
+  "icons": [
+    { "src": "assets/icon-180.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
